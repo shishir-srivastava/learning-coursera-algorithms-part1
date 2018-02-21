@@ -5,8 +5,8 @@ This repository contains the notes, exercises, and assignments, for the "Algorit
 The course is taught by [Prof. Robert Sedgewick](http://www.cs.princeton.edu/~rs/) and [Prof. Kevin Wayne](http://www.cs.princeton.edu/~wayne/contact/), of [Princeton University](https://www.princeton.edu/).
 
 Links to the course:  
-[Coursera](https://www.coursera.org/learn/algorithms-part1)  
-[YouTube](https://www.youtube.com/playlist?list=PLLQ1cuT9LqRVvLaktVZzEGMp4o9Wnmdtr)
+- [Coursera](https://www.coursera.org/learn/algorithms-part1)  
+- [YouTube](https://www.youtube.com/playlist?list=PLLQ1cuT9LqRVvLaktVZzEGMp4o9Wnmdtr)
 
 ## Course Notes
 
