@@ -71,7 +71,7 @@ In the Dynamic Connectivity problem, the objects can be of any type. For example
 * etc...
 
   
-##### Quick Find
+##### Quick Find algorithm
 
 Lecture: [Coursera](https://www.coursera.org/learn/algorithms-part1/lecture/EcF3P/quick-find)  
 Code: [QuickFind.java](src/week1/unionfind/QuickFind.java)  
@@ -119,6 +119,13 @@ Here, 2 objects `p` and `q` are said to be connected if and only if `arr[p]` and
 *Issues with Quick-Find algorithm:*
 
 The Quick-Find algorithm has a quadratic time-complexity `O(n^2)`, hence it's not scalable for large number of nodes.
+
+
+##### Quick Union algorithm
+
+Lecture: [Coursera](https://www.coursera.org/learn/algorithms-part1/lecture/ZgecU/quick-union)
+Code: [QuickUnion.java]()
+Test: [QuickUnionTest.java]()
 
 
 
